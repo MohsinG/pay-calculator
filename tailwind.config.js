@@ -33,8 +33,14 @@ export default {
       },
       borderRadius: {
         '4xl': '2rem',
-      }
+      },
+      colors: {
+        'white': '#ffffff',
+      },
     }
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/forms'),
+    // ...
+  ],
 }
