@@ -8,7 +8,7 @@ const Heading = () => {
         <h1 className="text-center font-bold text-2xl uppercase">Income</h1>
         <p>
           Enter your salary, adjust the settings and see the results in the
-          summary below.
+          summary below. My branch.
         </p>
       </div>
     </div>
